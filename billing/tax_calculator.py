@@ -1,4 +1,9 @@
 
+from decimal import Decimal, ROUND_HALF_UP
+
 def calculate_total(subtotal, tax_rate):
-    # BUG: Precision loss using float for currency
-    return round(subtotal * (1 + tax_rate), 2)
+    # FIX: Use Decimal for consistent financial calculations
+    s = Decimal(str(subtotal))
+    t = Decimal(str(tax_rate))
+    res = s * (Decimal('1') + t)
+    return res.quantize(Decimal('0.01'), rounding=ROUND_HALF_UP)
