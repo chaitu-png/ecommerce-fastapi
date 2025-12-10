@@ -1,0 +1,289 @@
+{
+    "project": "ecommerce-fastapi",
+    "commit_history": [
+        {
+            "hash": "3e5ce798",
+            "author": "dev-bot@peis.ai",
+            "date": "2025-12-11T01:37:03.841894",
+            "message": "feat: initial commit for ecommerce-fastapi",
+            "risk_score": "low"
+        },
+        {
+            "hash": "ab121c80",
+            "author": "dev-bot@peis.ai",
+            "date": "2025-12-15T01:37:03.841894",
+            "message": "docs: update architecture diagram",
+            "risk_score": "low"
+        },
+        {
+            "hash": "83594e53",
+            "author": "dev-bot@peis.ai",
+            "date": "2025-12-19T01:37:03.841894",
+            "message": "refactor: improve internal data structures",
+            "risk_score": "low"
+        },
+        {
+            "hash": "f23a6774",
+            "author": "dev-bot@peis.ai",
+            "date": "2025-12-21T01:37:03.841894",
+            "message": "test: add unit tests for base logic",
+            "risk_score": "low"
+        },
+        {
+            "hash": "81a6cfbe",
+            "author": "dev-bot@peis.ai",
+            "date": "2025-12-24T01:37:03.841894",
+            "message": "docs: update architecture diagram",
+            "risk_score": "low"
+        },
+        {
+            "hash": "ae0eaa8c",
+            "author": "dev-bot@peis.ai",
+            "date": "2025-12-27T01:37:03.841894",
+            "message": "feat: implement core ecommerce-fastapi module",
+            "risk_score": "low"
+        },
+        {
+            "hash": "23b5b3d9",
+            "author": "dev-bot@peis.ai",
+            "date": "2025-12-28T01:37:03.841894",
+            "message": "test: add unit tests for base logic",
+            "risk_score": "low"
+        },
+        {
+            "hash": "4bb0da9c",
+            "author": "dev-bot@peis.ai",
+            "date": "2026-01-01T01:37:03.841894",
+            "message": "test: add unit tests for base logic",
+            "risk_score": "low"
+        },
+        {
+            "hash": "c00da4dc",
+            "author": "dev-bot@peis.ai",
+            "date": "2026-01-03T01:37:03.841894",
+            "message": "docs: update architecture diagram",
+            "risk_score": "low"
+        },
+        {
+            "hash": "2d1c9db0",
+            "author": "dev-bot@peis.ai",
+            "date": "2026-01-07T01:37:03.841894",
+            "message": "test: add unit tests for base logic",
+            "risk_score": "low"
+        },
+        {
+            "hash": "230ca1b9",
+            "author": "dev-bot@peis.ai",
+            "date": "2026-01-11T01:37:03.841894",
+            "message": "feat: implement core ecommerce-fastapi module",
+            "risk_score": "low"
+        },
+        {
+            "hash": "2c0467df",
+            "author": "dev-bot@peis.ai",
+            "date": "2026-01-14T01:37:03.841894",
+            "message": "feat: implement core ecommerce-fastapi module",
+            "risk_score": "low"
+        },
+        {
+            "hash": "ff2c99fb",
+            "author": "dev-bot@peis.ai",
+            "date": "2026-01-16T01:37:03.841894",
+            "message": "test: add unit tests for base logic",
+            "risk_score": "low"
+        },
+        {
+            "hash": "155f7275",
+            "author": "dev-bot@peis.ai",
+            "date": "2026-01-19T01:37:03.841894",
+            "message": "docs: update architecture diagram",
+            "risk_score": "low"
+        },
+        {
+            "hash": "c549d5e3",
+            "author": "dev-bot@peis.ai",
+            "date": "2026-01-21T01:37:03.841894",
+            "message": "refactor: improve internal data structures",
+            "risk_score": "low"
+        },
+        {
+            "hash": "c18d6b33",
+            "author": "dev-bot@peis.ai",
+            "date": "2026-01-25T01:37:03.841894",
+            "message": "feat: implement core ecommerce-fastapi module",
+            "risk_score": "low"
+        },
+        {
+            "hash": "f654ce72",
+            "author": "dev-bot@peis.ai",
+            "date": "2026-01-30T01:37:03.841894",
+            "message": "feat: add high-performance batch processing",
+            "risk_score": "high"
+        },
+        {
+            "hash": "d7e7502a",
+            "author": "dev-bot@peis.ai",
+            "date": "2026-02-01T01:37:03.841894",
+            "message": "fix: resolve race condition",
+            "risk_score": "low"
+        },
+        {
+            "hash": "e126e718",
+            "author": "dev-bot@peis.ai",
+            "date": "2026-02-04T01:37:03.841894",
+            "message": "fix: resolve race condition",
+            "risk_score": "low"
+        },
+        {
+            "hash": "e69f54ff",
+            "author": "dev-bot@peis.ai",
+            "date": "2026-02-07T01:37:03.841894",
+            "message": "fix: resolve memory leak",
+            "risk_score": "low"
+        },
+        {
+            "hash": "8ec74a8e",
+            "author": "dev-bot@peis.ai",
+            "date": "2026-02-09T01:37:03.841894",
+            "message": "feat: auxiliary feature 3 for ecommerce-fastapi",
+            "risk_score": "medium"
+        },
+        {
+            "hash": "fabf834c",
+            "author": "dev-bot@peis.ai",
+            "date": "2026-02-10T01:37:03.841894",
+            "message": "fix: resolve memory leak",
+            "risk_score": "low"
+        },
+        {
+            "hash": "9df5ef5d",
+            "author": "dev-bot@peis.ai",
+            "date": "2026-02-11T01:37:03.841894",
+            "message": "fix: resolve race condition",
+            "risk_score": "low"
+        },
+        {
+            "hash": "d1c6e4a3",
+            "author": "dev-bot@peis.ai",
+            "date": "2026-02-12T01:37:03.841894",
+            "message": "fix: resolve race condition",
+            "risk_score": "low"
+        },
+        {
+            "hash": "13b378ce",
+            "author": "dev-bot@peis.ai",
+            "date": "2026-02-14T01:37:03.841894",
+            "message": "fix: resolve rounding error",
+            "risk_score": "low"
+        },
+        {
+            "hash": "a2508957",
+            "author": "dev-bot@peis.ai",
+            "date": "2026-02-15T01:37:03.841894",
+            "message": "feat: auxiliary feature 8 for ecommerce-fastapi",
+            "risk_score": "medium"
+        },
+        {
+            "hash": "1fc9e84f",
+            "author": "dev-bot@peis.ai",
+            "date": "2026-02-16T01:37:03.841894",
+            "message": "fix: resolve rounding error",
+            "risk_score": "low"
+        },
+        {
+            "hash": "8b1cfffa",
+            "author": "dev-bot@peis.ai",
+            "date": "2026-04-05T01:37:03.842896",
+            "message": "refactor: optimize database query layer",
+            "risk_score": "critical"
+        }
+    ],
+    "deployments": [
+        {
+            "id": "DEP-3319",
+            "timestamp": "2025-12-15T01:37:03.841894",
+            "status": "success",
+            "environment": "production"
+        },
+        {
+            "id": "DEP-4896",
+            "timestamp": "2025-12-24T01:37:03.841894",
+            "status": "success",
+            "environment": "production"
+        },
+        {
+            "id": "DEP-1949",
+            "timestamp": "2026-01-01T01:37:03.841894",
+            "status": "success",
+            "environment": "production"
+        },
+        {
+            "id": "DEP-4052",
+            "timestamp": "2026-01-11T01:37:03.841894",
+            "status": "success",
+            "environment": "production"
+        },
+        {
+            "id": "DEP-7441",
+            "timestamp": "2026-01-19T01:37:03.841894",
+            "status": "success",
+            "environment": "production"
+        },
+        {
+            "id": "DEP-5115",
+            "timestamp": "2026-01-30T01:37:03.841894",
+            "status": "failed",
+            "environment": "production"
+        },
+        {
+            "id": "DEP-4260",
+            "timestamp": "2026-04-05T01:37:03.842896",
+            "status": "success",
+            "environment": "production"
+        }
+    ],
+    "test_reports": [
+        {
+            "timestamp": "2025-12-15T01:37:03.841894",
+            "coverage_percent": 49.5,
+            "passed": 65,
+            "failed": 0
+        },
+        {
+            "timestamp": "2025-12-24T01:37:03.841894",
+            "coverage_percent": 56.42,
+            "passed": 162,
+            "failed": 4
+        },
+        {
+            "timestamp": "2026-01-01T01:37:03.841894",
+            "coverage_percent": 43.25,
+            "passed": 99,
+            "failed": 5
+        },
+        {
+            "timestamp": "2026-01-11T01:37:03.841894",
+            "coverage_percent": 53.32,
+            "passed": 146,
+            "failed": 3
+        },
+        {
+            "timestamp": "2026-01-19T01:37:03.841894",
+            "coverage_percent": 45.6,
+            "passed": 70,
+            "failed": 2
+        },
+        {
+            "timestamp": "2026-01-30T01:37:03.841894",
+            "coverage_percent": 32.1,
+            "passed": 182,
+            "failed": 2
+        },
+        {
+            "timestamp": "2026-04-05T01:37:03.842896",
+            "coverage_percent": 59.83,
+            "passed": 186,
+            "failed": 0
+        }
+    ]
+}
